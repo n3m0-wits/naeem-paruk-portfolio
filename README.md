@@ -17,13 +17,14 @@ Peer-reviewed investigation into cognitive biases in medical education using Bay
 
 ### Key Projects
 
+**AI Data Extraction & Insights Pipeline** — End-to-end data engineering  
+Serverless Azure ETL pipeline extracting insights from unstructured email data. Deployed LLM-powered extraction with fault tolerance and live Power BI dashboards.  
+[View project →](https://github.com/n3m0-wits/regrets-to-inform) | Tech: Python, Azure (Functions, CosmosDB), Foundry, Ibis (SQL), Pandas, Matplotlib, Seaborn, Plotly, Power BI
+
 **LEGO Parts Sourcing Tool** — Multi-vendor optimization  
 Goal-programming MILP model balancing cost, shipping, inventory, and condition across 100+ vendors. Achieved 30% savings through constraint optimization.  
 [View project →](#) | Tech: Python, PostgreSQL, OR-Tools, MILP
 
-**AI Data Extraction & Insights Pipeline** — End-to-end data engineering  
-Serverless Azure ETL pipeline extracting insights from unstructured email data. Deployed LLM-powered extraction with fault tolerance and live Power BI dashboards.  
-[View project →](https://github.com/n3m0-wits/regrets-to-inform) | Tech: Python, Azure (Functions, CosmosDB), Foundry, Ibis (SQL), Pandas, Matplotlib, Seaborn, Plotly, Power BI
 
 ---
 
